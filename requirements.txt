@@ -1,0 +1,4 @@
+pygame==2.5.2
+chess==1.10.0
+CairoSVG==2.7.1
+pipwin==0.5.2
